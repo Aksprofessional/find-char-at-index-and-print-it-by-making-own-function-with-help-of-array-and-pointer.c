@@ -1,0 +1,1 @@
+# find-char-at-index-and-print-it-by-making-own-function-with-help-of-array-and-pointer.c
